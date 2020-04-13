@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp-system-monitor.dir/main.cpp.o  -o cpp-system-monitor  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
