@@ -1,3 +1,0 @@
-/home/samuel/Documents/.code/CPP-Nanodegree/3_Object_Oriented_Programming/cpp-system-monitor/build/CMakeFiles/rebuild_cache.dir
-/home/samuel/Documents/.code/CPP-Nanodegree/3_Object_Oriented_Programming/cpp-system-monitor/build/CMakeFiles/edit_cache.dir
-/home/samuel/Documents/.code/CPP-Nanodegree/3_Object_Oriented_Programming/cpp-system-monitor/build/CMakeFiles/cpp-system-monitor.dir
